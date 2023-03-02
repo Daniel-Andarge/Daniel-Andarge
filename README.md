@@ -9,9 +9,6 @@
 
 ## LinkedIn
 
-[![Linkedin: Daniel Anndarge](https://img.shields.io/badge/-Daniel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielandarge//)](https://www.linkedin.com/in/danielandarge//)
-[![GitHub Daniel Andarge](https://img.shields.io/github/followers/Daniel Andarge?label=follow&style=social)](https://github.com/Daniel-Andarge)
-
 
 ### Languages I Speak💻 🌐
 
