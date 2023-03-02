@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on python, JavaScript, Java, Rubby , SQL & NoSQL ,  projects.
 
 
-## LinkedIn
+
 
 
 ### Languages I Speak💻 🌐
