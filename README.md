@@ -1,20 +1,3 @@
-### Hi👋 
-#### Welcome! to my Github
-
-<!--
-**Daniel-Andarge/Daniel-Andarge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### Hi there `👋`, I'm Daniel
 
 ### `Welcome to my GitHub profile.` 
@@ -26,8 +9,8 @@ Here are some ideas to get you started:
 
 ## LinkedIn
 
-[![Linkedin: Daniel Anndarge](https://img.shields.io/badge/-Abinet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielandarge//)](https://www.linkedin.com/in/danielandarge//)
-[![GitHub Abinet508](https://img.shields.io/github/followers/Abinet508?label=follow&style=social)](https://github.com/Daniel-Andarge)
+[![Linkedin: Daniel Anndarge](https://img.shields.io/badge/-Daniel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielandarge//)](https://www.linkedin.com/in/danielandarge//)
+[![GitHub Daniel Andarge](https://img.shields.io/github/followers/Daniel Andarge?label=follow&style=social)](https://github.com/Daniel-Andarge)
 
 
 ### Languages I Speak💻 🌐
