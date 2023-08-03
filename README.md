@@ -3,7 +3,6 @@
 ### `Welcome to my GitHub profile.` 
 
 - 🌱 I’m a Software Engineer.
-- 🔭 I’m currently working on two personal projects, web automation and Voice assistant.
 - 👯 I’m looking to collaborate on python, JavaScript, Java, Rubby , SQL & NoSQL ,  projects.
 
 
