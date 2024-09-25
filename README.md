@@ -2,8 +2,8 @@
 
 ### `Welcome to my GitHub profile.` 
 
-- 🌱 I’m a Software Engineer / Data Engineer.
-- 👯 I’m looking to collaborate on python, JavaScript, Java, Rubby , SQL & NoSQL ,  projects.
+- 🌱 I’m a Software Engineer 
+- 👯 Looking collaboration opportunities on projects in Software Development, Data Engineering, and Machine Learning.
 
 
 
